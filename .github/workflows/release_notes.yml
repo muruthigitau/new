@@ -10,13 +10,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Set up variables
+        id: vars
+        run: |
+          echo "TAG_NAME=v$SEMVER-$(date +%Y%m%d%H%M%S)" >> $GITHUB_ENV
+          echo "RELEASE_NAME=Release: $VERSION" >> $GITHUB_ENV
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GH }}
         with:
-          tag_name: "v$semver"
-          release_name: "Release: $version"
+          tag_name: ${{ env.TAG_NAME }}
+          release_name: ${{ env.RELEASE_NAME }}
           draft: false
           prerelease: false
