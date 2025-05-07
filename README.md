@@ -1,22 +1,35 @@
-<div align="center" style="margin: 2rem auto; max-width: 1200px; font-family: 'Segoe UI', system-ui, sans-serif;">
 
-### **Quick Navigation**
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; margin: 1rem 0;">
+<div align="center" >
 
-<a href="https://github.com/navariltd/utility-billing" target="_blank" style="background:#E9F5DB; color:#000; padding:0.6rem 1rem; border-radius:0.5rem; text-decoration:none; font-weight:bold; display:inline-flex; align-items:center; margin: 0.3rem;">🏠 Home</a>
+  <h3><strong>Quick Navigation</strong></h3>
 
-<a href="https://github.com/navariltd/utility-billing/wiki" target="_blank" style="background:#6c5ce7; color:#fff; padding:0.6rem 1rem; border-radius:0.5rem; text-decoration:none; font-weight:bold; display:inline-flex; align-items:center; margin: 0.3rem;">📖 Full Documentation</a>
+  <a href="https://github.com/navariltd/utility-billing">
+    <img src="https://img.shields.io/badge/Home-DEF4FF?style=for-the-badge&logo=github&logoColor=000" alt="Home">
+  </a>
+  
+  <a href="https://github.com/navariltd/utility-billing/wiki">
+    <img src="https://img.shields.io/badge/Full_Documentation-6366F1?style=for-the-badge&logo=readthedocs&logoColor=fff" alt="Docs">
+  </a>
+  
+  <a href="https://docs.erpnext.com">
+    <img src="https://img.shields.io/badge/ERPNext_Docs-FF6B6B?style=for-the-badge&logo=erpnext&logoColor=fff" alt="ERPNext Docs">
+  </a>
+  
+  <a href="https://frappeframework.com/docs">
+    <img src="https://img.shields.io/badge/Frappe_Framework-00C49A?style=for-the-badge&logo=frappe&logoColor=fff" alt="Frappe">
+  </a>
+  
+  <a href="https://discuss.frappe.io">
+    <img src="https://img.shields.io/badge/Community_Forum-F59E0B?style=for-the-badge&logo=discourse&logoColor=fff" alt="Forum">
+  </a>
+  
+  <a href="https://github.com/navariltd/utility-billing/issues">
+    <img src="https://img.shields.io/badge/Report_Issue-E63946?style=for-the-badge&logo=githubissues&logoColor=fff" alt="Issues">
+  </a>
+  
+  <a href="https://navari.co.ke">
+    <img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=fff" alt="Website">
+  </a>
 
-<a href="https://docs.erpnext.com" target="_blank" style="background:#ff9f00; color:#fff; padding:0.6rem 1rem; border-radius:0.5rem; text-decoration:none; font-weight:bold; display:inline-flex; align-items:center; margin: 0.3rem;">📄 ERPNext Docs</a>
-
-<a href="https://frappeframework.com/docs" target="_blank" style="background:#00b894; color:#fff; padding:0.6rem 1rem; border-radius:0.5rem; text-decoration:none; font-weight:bold; display:inline-flex; align-items:center; margin: 0.3rem;">🧰 Frappe Framework</a>
-
-<a href="https://discuss.frappe.io" target="_blank" style="background:#f39c12; color:#fff; padding:0.6rem 1rem; border-radius:0.5rem; text-decoration:none; font-weight:bold; display:inline-flex; align-items:center; margin: 0.3rem;">🗣️ Community Forum</a>
-
-<a href="https://github.com/navariltd/utility-billing/issues" target="_blank" style="background:#e74c3c; color:#fff; padding:0.6rem 1rem; border-radius:0.5rem; text-decoration:none; font-weight:bold; display:inline-flex; align-items:center; margin: 0.3rem;">🐞 Report an Issue</a>
-
-<a href="https://navari.co.ke" target="_blank" style="background:#2d3436; color:#fff; padding:0.6rem 1rem; border-radius:0.5rem; text-decoration:none; font-weight:bold; display:inline-flex; align-items:center; margin: 0.3rem;">🌐 Website</a>
-
-</div>
 </div>
